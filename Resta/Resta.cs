@@ -17,7 +17,9 @@ namespace NachoOpera_Resta
         /// 
         public static long Re_Resta(long A, long B)
         {
-            return ( A - B);
+            return (A - B);
+            //Miguel Galeano 
+
         }
     }
 }
